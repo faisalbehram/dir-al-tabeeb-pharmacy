@@ -121,7 +121,7 @@ function Footer() {
               </li>
               <li className="flex justify-between">
                 <span>Sunday</span>
-                <span className="text-white">8 AM – 12 PM</span>
+                <span className="text-white">9 AM – 12 PM</span>
               </li>
             </ul>
           </div>
