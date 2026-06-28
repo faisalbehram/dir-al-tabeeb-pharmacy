@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <circle cx="60" cy="60" r="56" fill="#0B8F8C" opacity="0.1"/>
+  <circle cx="60" cy="60" r="48" fill="#0B8F8C"/>
+  <!-- UAE flag ribbon -->
+  <rect x="18" y="22" width="8" height="76" rx="1" fill="#FF0000"/>
+  <rect x="26" y="22" width="66" height="19" fill="white"/>
+  <rect x="26" y="41" width="66" height="19" fill="black"/>
+  <rect x="26" y="60" width="66" height="19" fill="white"/>
+  <rect x="26" y="79" width="66" height="19" fill="#00732F"/>
+  <!-- Pharmacy cross -->
+  <rect x="52" y="38" width="16" height="44" rx="3" fill="white"/>
+  <rect x="38" y="52" width="44" height="16" rx="3" fill="white"/>
+  <circle cx="60" cy="60" r="52" stroke="#28A745" stroke-width="2" fill="none" opacity="0.6"/>
+</svg>
