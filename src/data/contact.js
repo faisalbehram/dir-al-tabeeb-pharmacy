@@ -9,8 +9,8 @@ export const PHARMACY_CONTACT = {
   mapsEmbedUrl:
     'https://www.google.com/maps?q=G01+Warsan+First+Morocco+Cluster+Dubai+UAE&output=embed',
   workingHours: {
-    weekdays: 'Mon – Sat: 8:00 AM – 10:00 PM',
-    sunday: 'Sun: 9:00 AM – 6:00 PM',
+    weekdays: 'Mon – Sat: 8:00 AM – 12:00 PM',
+    sunday: 'Sun: 9:00 AM – 12:00 PM',
   },
   location: 'Dubai, United Arab Emirates',
 }
