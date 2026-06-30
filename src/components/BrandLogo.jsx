@@ -1,5 +1,5 @@
 import logo from '../assets/logo.svg'
-import uaePharmacyLogo from '../assets/uae-pharmacy-logo.svg'
+import uaePharmacyLogo from '../assets/logo.svg'
 
 /**
  * Reusable brand mark with optional UAE licensed pharmacy badge.
